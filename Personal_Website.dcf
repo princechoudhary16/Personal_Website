@@ -1,0 +1,13 @@
+name: Personal_Website
+title: Personal_Website
+username:
+account: princeinvicta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8737109
+bundleId: 7035166
+url: https://princeinvicta.shinyapps.io/Personal_Website/
+when: 1680310671.02201
+lastSyncTime: 1680310671.02205
+asMultiple: FALSE
+asStatic: FALSE
